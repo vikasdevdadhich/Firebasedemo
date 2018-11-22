@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395641232791",
+    "firebase_url": "https://splesho-faea8.firebaseio.com",
+    "project_id": "splesho-faea8",
+    "storage_bucket": "splesho-faea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395641232791:android:a83d396c1d48405e",
+        "android_client_info": {
+          "package_name": "com.example.vikas.splesho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395641232791-vtcnbql5o1ut96ntomta73v3pjc0it2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vikas.splesho",
+            "certificate_hash": "ee860e52de8be3087bf34ff81b3481149e9b8319"
+          }
+        },
+        {
+          "client_id": "395641232791-qkpg7lg8ek6e4vq6fr8ocf646hgosrtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB70Fg_TtLSwfpHnAqlfwZhiBQrBRzk4w4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395641232791-qkpg7lg8ek6e4vq6fr8ocf646hgosrtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
